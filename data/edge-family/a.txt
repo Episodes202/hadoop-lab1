@@ -1,0 +1,8 @@
+child parent
+A B
+A B
+B C
+D B
+E F
+A D
+D C
