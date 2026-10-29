@@ -1,0 +1,112 @@
+[
+  {
+    "document": "document01.txt",
+    "title": "Single Node Setup",
+    "url": "https://hadoop.apache.org/docs/r3.4.2/hadoop-project-dist/hadoop-common/SingleCluster.html",
+    "http_status": 200,
+    "downloaded_at_utc": "2026-10-29T02:31:41.770029+00:00",
+    "bytes": 6236,
+    "raw_tokens": 942,
+    "sha256": "54f422adbb3138a4a8a4eb2442e87e60467aed2736fef62566b6f4d4742ad56a",
+    "html_sha256": "b6434bee9ffbb21a2462991ba79e71490a9b9c878a9ea7cd3160f3ab62a98f3b"
+  },
+  {
+    "document": "document02.txt",
+    "title": "Cluster Setup",
+    "url": "https://hadoop.apache.org/docs/r3.4.2/hadoop-project-dist/hadoop-common/ClusterSetup.html",
+    "http_status": 200,
+    "downloaded_at_utc": "2026-10-29T02:31:41.799635+00:00",
+    "bytes": 19466,
+    "raw_tokens": 3044,
+    "sha256": "133945a129c0c57b2242230ef92309550f07b277fc2804cd8b9d1d7d494657ea",
+    "html_sha256": "cbee0fc4c7a6bf4f16b879065334ed9fa65cb60d715a7ecb863b4c0072b7391e"
+  },
+  {
+    "document": "document03.txt",
+    "title": "FileSystem Shell",
+    "url": "https://hadoop.apache.org/docs/r3.4.2/hadoop-project-dist/hadoop-common/FileSystemShell.html",
+    "http_status": 200,
+    "downloaded_at_utc": "2026-10-29T02:31:41.903688+00:00",
+    "bytes": 37368,
+    "raw_tokens": 6053,
+    "sha256": "b29247bd3ee41f1d8bad34ae43bd49c31447000d957d1a033998d28b202bd87c",
+    "html_sha256": "92709dda4932b3189439cac8660fce53767a8dc595e79eb708d9a39f7e4169e6"
+  },
+  {
+    "document": "document04.txt",
+    "title": "HDFS Architecture",
+    "url": "https://hadoop.apache.org/docs/r3.4.2/hadoop-project-dist/hadoop-hdfs/HdfsDesign.html",
+    "http_status": 200,
+    "downloaded_at_utc": "2026-10-29T02:31:41.843475+00:00",
+    "bytes": 26837,
+    "raw_tokens": 4401,
+    "sha256": "65b708f1c2f5172623f9e773285567b0a696600ec194e42d246a7aa9fa38ec18",
+    "html_sha256": "494f1c029b5be2fe1497ce9aaecc3636d785ba255fc1bd7a5c71c9deb27ca0e4"
+  },
+  {
+    "document": "document05.txt",
+    "title": "HDFS Users Guide",
+    "url": "https://hadoop.apache.org/docs/r3.4.2/hadoop-project-dist/hadoop-hdfs/HdfsUserGuide.html",
+    "http_status": 200,
+    "downloaded_at_utc": "2026-10-29T02:31:43.551929+00:00",
+    "bytes": 23950,
+    "raw_tokens": 3854,
+    "sha256": "8a7b29924e18660e0d9d0eb90aeeb178361ea78be43a341f0134dd4de6d389b2",
+    "html_sha256": "bda87f5c3e7ea1270660544f8275a93bdb845b0a9fa76371b07659d19276193b"
+  },
+  {
+    "document": "document06.txt",
+    "title": "HDFS Snapshots",
+    "url": "https://hadoop.apache.org/docs/r3.4.2/hadoop-project-dist/hadoop-hdfs/HdfsSnapshots.html",
+    "http_status": 200,
+    "downloaded_at_utc": "2026-10-29T02:31:43.533429+00:00",
+    "bytes": 8112,
+    "raw_tokens": 1169,
+    "sha256": "d9ee00ebf4d4acc054407c361e01978142a8fa41dc85a92abc9e573ac791dc29",
+    "html_sha256": "950354ac4354fac53229975e42d10c6110b370c5eb35be0ad48531844c1f4390"
+  },
+  {
+    "document": "document07.txt",
+    "title": "HDFS Permissions Guide",
+    "url": "https://hadoop.apache.org/docs/r3.4.2/hadoop-project-dist/hadoop-hdfs/HdfsPermissionsGuide.html",
+    "http_status": 200,
+    "downloaded_at_utc": "2026-10-29T02:31:43.832992+00:00",
+    "bytes": 20246,
+    "raw_tokens": 3491,
+    "sha256": "977ef90e9634b00c6b41fae491a7be1715d744299364d8dffe08911f4b411774",
+    "html_sha256": "be5ca6e97fd74a7c2fbf0ce6ea9630f0812d868ea87d2f65e7e14c096b17350d"
+  },
+  {
+    "document": "document08.txt",
+    "title": "HDFS Quotas Guide",
+    "url": "https://hadoop.apache.org/docs/r3.4.2/hadoop-project-dist/hadoop-hdfs/HdfsQuotaAdminGuide.html",
+    "http_status": 200,
+    "downloaded_at_utc": "2026-10-29T02:31:43.652703+00:00",
+    "bytes": 7903,
+    "raw_tokens": 1312,
+    "sha256": "81ad92ea99aa63d89d07c865c4b2a00e5c43f3eba786ff8bb6b6a0103f6db2c2",
+    "html_sha256": "db9f88367240a7fd6f4697e6a45d6f1bd7dabefe44f9d0bb35df54ac0aee704c"
+  },
+  {
+    "document": "document09.txt",
+    "title": "MapReduce Tutorial",
+    "url": "https://hadoop.apache.org/docs/r3.4.2/hadoop-mapreduce-client/hadoop-mapreduce-client-core/MapReduceTutorial.html",
+    "http_status": 200,
+    "downloaded_at_utc": "2026-10-29T02:31:45.497601+00:00",
+    "bytes": 56871,
+    "raw_tokens": 8721,
+    "sha256": "b795dca59ad163f45f7a9c5fec6a653b0630cad4549182e0dc4cdb2ad00906b7",
+    "html_sha256": "0fa9037fa2cd8c87695c5f127500e65d07c66609ddd32a13bfcb5401fbf86610"
+  },
+  {
+    "document": "document10.txt",
+    "title": "YARN Architecture",
+    "url": "https://hadoop.apache.org/docs/r3.4.2/hadoop-yarn/hadoop-yarn-site/YARN.html",
+    "http_status": 200,
+    "downloaded_at_utc": "2026-10-29T02:31:45.168522+00:00",
+    "bytes": 3384,
+    "raw_tokens": 494,
+    "sha256": "444fb68f375296776851d82f237c15cec63f74671697e61c864eda955ec75fe7",
+    "html_sha256": "353214934cb5cd642d9005d26211484a211333e6f871ac71db786362a556f86e"
+  }
+]

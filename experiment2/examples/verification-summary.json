@@ -1,0 +1,50 @@
+{
+  "jobs": [
+    {
+      "dataset": "corpus",
+      "application": "application_1793241053904_0001",
+      "state": "FINISHED",
+      "final_status": "SUCCEEDED",
+      "document_count": 10,
+      "raw_tokens": 33481,
+      "stopword_tokens": 11901,
+      "indexed_tokens": 21580,
+      "stopword_count": 128,
+      "unique_terms": 2890,
+      "document_postings": 5740,
+      "total_frequency": 21580
+    },
+    {
+      "dataset": "edge-combiner",
+      "application": "application_1793241053904_0002",
+      "state": "FINISHED",
+      "final_status": "SUCCEEDED",
+      "document_count": 4,
+      "raw_tokens": 57,
+      "stopword_tokens": 35,
+      "indexed_tokens": 22,
+      "stopword_count": 128,
+      "unique_terms": 11,
+      "document_postings": 14,
+      "total_frequency": 22
+    },
+    {
+      "dataset": "edge-no-combiner",
+      "application": "application_1793241053904_0003",
+      "state": "FINISHED",
+      "final_status": "SUCCEEDED",
+      "document_count": 4,
+      "raw_tokens": 57,
+      "stopword_tokens": 35,
+      "indexed_tokens": 22,
+      "stopword_count": 128,
+      "unique_terms": 11,
+      "document_postings": 14,
+      "total_frequency": 22
+    }
+  ],
+  "all_yarn_jobs_succeeded": true,
+  "all_postings_independently_verified": true,
+  "combiner_outputs_byte_identical": true,
+  "verifier_self_tests_passed": 14
+}

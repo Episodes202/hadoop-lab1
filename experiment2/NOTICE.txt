@@ -1,0 +1,7 @@
+Corpus attribution
+
+The ten files in data/corpus contain text extracted from Apache Hadoop 3.4.2 documentation.
+Copyright 2008-2025 The Apache Software Foundation. Licensed under the Apache License, Version 2.0 (see LICENSE-APACHE-2.0.txt).
+Original page titles and URLs are recorded in data/sources.json.
+Modifications: main content extracted from HTML; site navigation, headers and footers removed; whitespace normalized; converted to UTF-8 plain text for an educational inverted-index experiment.
+Apache, Hadoop, and related logos are trademarks of The Apache Software Foundation.
